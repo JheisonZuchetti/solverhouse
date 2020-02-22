@@ -1,0 +1,205 @@
+[25-May-2019 16:58:21 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:48 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:52 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:56 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:57 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:59 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 16:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 17:00:27 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 17:00:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 17:00:45 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 17:00:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 17:00:49 UTC] PHP Notice:  Undefined variable: conexion in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 17:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fr4hz3sfle2f/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/index.php on line 6
+[25-May-2019 17:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 10
+[25-May-2019 17:04:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 10
+[25-May-2019 17:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 10
+[25-May-2019 17:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 10
+[25-May-2019 17:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:12:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:16:41 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[25-May-2019 17:16:41 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[25-May-2019 17:16:41 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[25-May-2019 17:17:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/fr4hz3sfle2f/public_html/perfil.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/perfil.php on line 26
+[25-May-2019 17:17:40 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[25-May-2019 17:17:40 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[25-May-2019 17:17:40 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[25-May-2019 17:26:24 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[25-May-2019 17:26:24 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[25-May-2019 17:26:24 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[25-May-2019 18:07:12 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[25-May-2019 18:07:12 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[25-May-2019 18:07:12 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[26-May-2019 01:53:20 UTC] PHP Notice:  Undefined offset: 1 in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 21
+[26-May-2019 01:53:20 UTC] PHP Notice:  Undefined offset: 2 in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 21
+[26-May-2019 01:54:33 UTC] PHP Notice:  Undefined index: direccion in /home/fr4hz3sfle2f/public_html/registro-trabajador.php on line 40
+[26-May-2019 01:57:43 UTC] PHP Notice:  Undefined index: direccion in /home/fr4hz3sfle2f/public_html/registro-trabajador.php on line 40
+[26-May-2019 01:59:53 UTC] PHP Notice:  Undefined index: direccion in /home/fr4hz3sfle2f/public_html/registro-trabajador.php on line 40
+[26-May-2019 02:00:05 UTC] PHP Notice:  Undefined index: direccion in /home/fr4hz3sfle2f/public_html/registro-trabajador.php on line 40
+[26-May-2019 02:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/fr4hz3sfle2f/public_html/categoria.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/categoria.php on line 22
+[26-May-2019 02:01:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/fr4hz3sfle2f/public_html/categoria.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/categoria.php on line 22
+[26-May-2019 02:05:12 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fr4hz3sfle2f/public_html/categoria.php on line 38
+[26-May-2019 02:05:51 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fr4hz3sfle2f/public_html/categoria.php on line 38
+[26-May-2019 03:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Fetch() on boolean in /home/fr4hz3sfle2f/public_html/trabajo-vista.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fr4hz3sfle2f/public_html/trabajo-vista.php on line 12
+[26-May-2019 22:52:14 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[26-May-2019 22:52:14 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[26-May-2019 22:52:14 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[27-May-2019 16:09:09 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[27-May-2019 16:09:09 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[27-May-2019 16:09:09 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[28-May-2019 02:44:24 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[28-May-2019 02:44:25 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[28-May-2019 02:44:25 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[29-May-2019 14:35:36 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[29-May-2019 14:35:36 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[29-May-2019 14:35:36 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[29-May-2019 14:35:59 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[29-May-2019 14:35:59 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[29-May-2019 14:35:59 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[29-May-2019 23:22:53 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[29-May-2019 23:22:53 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[29-May-2019 23:22:53 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: presupuesto in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 17
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: descripcion in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 20
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: img1 in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 23
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: img2 in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 27
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: img3 in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 31
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: distrito in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 37
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: nombre_c in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 38
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: credito in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 44
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: post_c in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 51
+[29-May-2019 23:29:49 UTC] PHP Notice:  Undefined variable: credito in /home/fr4hz3sfle2f/public_html/pagina/trabajo-vista.v.php on line 52
+[30-May-2019 00:07:46 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 37
+[30-May-2019 00:07:46 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:07:46 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 00:13:00 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 00:13:00 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:13:00 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 00:13:12 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 00:13:12 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:13:12 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 00:13:22 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 00:13:22 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:13:22 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 00:14:16 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 00:14:16 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:14:16 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 00:17:08 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 00:17:08 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:17:08 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 00:24:15 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 00:24:15 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:24:15 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 00:34:29 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 00:34:29 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 00:34:29 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 02:11:27 UTC] PHP Notice:  Undefined index: direccion in /home/fr4hz3sfle2f/public_html/registro-trabajador.php on line 46
+[30-May-2019 02:13:55 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 31
+[30-May-2019 02:14:06 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 31
+[30-May-2019 02:14:08 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 31
+[30-May-2019 02:14:12 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 31
+[30-May-2019 02:14:47 UTC] PHP Notice:  Undefined index: usuario in /home/fr4hz3sfle2f/public_html/publicarproyecto.php on line 41
+[30-May-2019 02:14:47 UTC] PHP Notice:  Undefined variable: celular in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 45
+[30-May-2019 02:14:47 UTC] PHP Notice:  Undefined variable: correo in /home/fr4hz3sfle2f/public_html/pagina/publicarproyecto.v.php on line 47
+[30-May-2019 02:15:21 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 31
+[30-May-2019 02:18:00 UTC] PHP Notice:  Undefined index: direccion in /home/fr4hz3sfle2f/public_html/registro-trabajador.php on line 46
+[30-May-2019 02:18:46 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 31
+[30-May-2019 02:22:02 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fr4hz3sfle2f/public_html/categoria.php on line 38
+[30-May-2019 02:26:25 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:27:15 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:27:15 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:27:27 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:27:35 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:27:35 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 31
+[30-May-2019 02:27:35 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fr4hz3sfle2f/public_html/categoria.php on line 38
+[30-May-2019 02:27:35 UTC] PHP Notice:  Undefined index: checkbox-s in /home/fr4hz3sfle2f/public_html/categoria.php on line 44
+[30-May-2019 02:27:35 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:29:57 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:30:45 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:30:45 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:30:53 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:30:55 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:30:56 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
+[30-May-2019 02:31:02 UTC] PHP Notice:  Undefined index: id_trabajador in /home/fr4hz3sfle2f/public_html/tuperfil.php on line 29
